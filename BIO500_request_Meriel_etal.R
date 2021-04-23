@@ -1,4 +1,4 @@
-#effectuer ces requêtes une fois la base de données créée
+#À RÉALISER UNE FOIS LA BASE DE DONNÉES CRÉÉES
 
 #Requête pour aller chercher la table collaboration
 req <- "SELECT etudiant1, etudiant2, cours, session FROM collaborations"

@@ -1,3 +1,6 @@
+#À RÉALISER APRÈS LES REQUÊTES
+
+
 #Premier graphique, boxplot du nombre de liens par étudiant par session
 
 #Transformer notre tableau du nombre de liens par étudiant par session en data frame 

@@ -1,3 +1,6 @@
+#À RÉALISER COMME PREMIÈRE ÉTAPE
+
+
 #setwd selon son propre emplacement des fichiers excel. Ne pas recopier cette ligne!!
 setwd("~/École/UdeS/Session Hiver 2021/BIO500/Travail")
 
