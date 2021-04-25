@@ -9,7 +9,7 @@ collaboration de chacun des étudiants avec leurs compères tout au long de leur
 informations de chacun des cours auxquels les étudiants se sont vu être placé en équipe. Malgré quelque erreur de saisies ou d'incohérence, les documents ne furent pas
 corrigés dans les fichiers, mais bien, lors de la création de la base de données à l'aide de R.
 
-Voici les tables créées et leur varaibles:
+Voici les tables créées et leur variables:
              
              noeuds_sql<-'
               CREATE TABLE noeuds (
