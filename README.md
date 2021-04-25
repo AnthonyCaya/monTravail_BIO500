@@ -10,7 +10,8 @@ informations de chacun des cours auxquels les étudiants se sont vu être placé
 corrigés dans les fichiers, mais bien, lors de la création de la base de données à l'aide de R.
 
 Voici les tables créées et leur varaibles:
-              noeuds_sql<-'
+             
+             noeuds_sql<-'
               CREATE TABLE noeuds (
               nom VARCHAR(50),
               session_debut VARCHAR(3),
